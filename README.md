@@ -14,7 +14,7 @@
 
 - 💬 Ask me about *JAVASCRIPT, REACT, DS-ALGO*
 
-- 📫 How to reach me *agarwalr3272209@gmail.com*
+- 📫 How to reach me *agarwalr327@gmail.com*
 
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="center">Feel Free to Contact me.....</h3>
